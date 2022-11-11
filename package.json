@@ -2,13 +2,30 @@
 	"name": "interstellar-theme",
 	"displayName": "Interstellar Theme",
 	"description": "A theme made for interstellar people",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"icon": "assets/logo.png",
+	"publisher": "NikhilKumar",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
-	"repository": "https://github.com/nikumar1206/Interstellar---VS-Code-Theme.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikumar1206/Interstellar---VS-Code-Theme.git"
+	},
 	"categories": [
 		"Themes"
+	],
+	"homepage": "https://github.com/nikumar1206/Interstellar---VS-Code-Theme",
+	"keywords": [
+		"VSCode",
+		"Themes",
+		"Interstellar",
+		"uiTheme",
+		"dark"
+	],
+	"extensionKind": [
+		"workspace",
+		"ui"
 	],
 	"contributes": {
 		"themes": [
