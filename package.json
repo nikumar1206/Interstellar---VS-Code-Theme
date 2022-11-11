@@ -1,21 +1,23 @@
 {
-  "name": "interstellar-theme",
-  "displayName": "Interstellar Theme",
-  "description": "A theme made for interstellar people",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.73.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Interstellar",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Interstellar-color-theme.json"
-      }
-    ]
-  }
+	"name": "interstellar-theme",
+	"displayName": "Interstellar Theme",
+	"description": "A theme made for interstellar people",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"repository": "https://github.com/nikumar1206/Interstellar---VS-Code-Theme.git",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Interstellar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Interstellar-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT"
 }
