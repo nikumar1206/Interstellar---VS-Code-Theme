@@ -3,7 +3,7 @@
 ## Welcome to the Interstellar Theme
 
 - Simple theme designed for dark mode.
-- Takes inspiration from Monokai and One Dark.
+- Takes inspiration from Jetbrains Fleet and Monokai.
 - Designed specifically for JavaScript and TypeScript in mind!
 
 ## Screenshots

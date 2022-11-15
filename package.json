@@ -2,7 +2,7 @@
 	"name": "interstellar-theme",
 	"displayName": "Interstellar Theme",
 	"description": "A theme made for interstellar people",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"icon": "assets/logo.png",
 	"publisher": "NikhilKumar",
 	"engines": {
@@ -21,7 +21,12 @@
 		"Themes",
 		"Interstellar",
 		"uiTheme",
-		"dark"
+		"dark",
+		"NikhilKumar",
+		"nikumar1206",
+		"theme",
+		"jetbrains",
+		"fleet"
 	],
 	"extensionKind": [
 		"workspace",
